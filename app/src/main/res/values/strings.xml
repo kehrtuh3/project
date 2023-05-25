@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Дилетант широкого профиля</string>
+    <string name="start"> начать </string>
+    <string name="back"> в меню </string>
+    <string name="music"> музыка </string>
+    <string name="literature"> литература </string>
+    <string name="art"> изобразительное искусство </string>
+    <string name="astronomy"> астрономия </string>
+    <string name="math"> математика </string>
+    <string name="botany"> ботаника </string>
+    <string name="lvl"> уровень </string>
+    <string name="lvl1"> уровень 1 </string>
+    <string name="lvl2"> уровень 2 </string>
+    <string name="btn_back"> назад </string>
+    <string name="btn_confirm"> подтвердить </string>
+</resources>
