@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Дилетант широкого профиля</string>
+    <string name="app_name"> Псевдоителлектуал </string>
+    <string name="app_start"> Докажите всем, что Вы настоящий дилетант широкого профиля! </string>
     <string name="start"> начать </string>
     <string name="back"> в меню </string>
     <string name="music"> музыка </string>
@@ -11,6 +12,7 @@
     <string name="lvl"> уровень </string>
     <string name="lvl1"> уровень 1 </string>
     <string name="lvl2"> уровень 2 </string>
+    <string name="lvl3"> уровень 3 </string>
     <string name="btn_back"> назад </string>
     <string name="btn_confirm"> подтвердить </string>
 </resources>
