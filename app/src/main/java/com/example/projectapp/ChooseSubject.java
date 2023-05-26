@@ -48,5 +48,18 @@ public class ChooseSubject extends AppCompatActivity {
                 }
             }
         });
+        TextView textView3 = (TextView)findViewById(R.id.textView3);
+        textView3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try{
+                    Intent intent = new Intent(ChooseSubject.this, Level3.class);
+                    startActivity(intent);
+                    finish();
+                }catch (Exception e){
+
+                }
+            }
+        });
     }
 }

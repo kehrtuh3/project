@@ -10,7 +10,7 @@ public class QuestionAnswer_2 {
             "Когда состоялся последний концерт группы Nirvana?"
     };
     public static String allAnswers_2[][] = {
-            {"Людвиг ван Бетховен ","Антон Феликс Шиндлер","Вольфганг Амадй Моцарт","Антонио Вивальди"},
+            {"Людвиг ван Бетховен ","Антон Феликс Шиндлер","Вольфганг Амадей Моцарт","Антонио Вивальди"},
             {"Guns N' Roses","Nirvana","My Chemical Romance","Sex Pistols"},
             {"The Offspring","Smash","You'll Rebel to Anything","The Bastards"},
             {"Камиль Сен-Санс","Арнольт Шлик","Вольфганг Амадей Моцарт","Никколо Паганини"},
@@ -18,7 +18,7 @@ public class QuestionAnswer_2 {
             {"6 апреля 1995","1 декабря 2001","1 марта 1994","3 мая 1999"}
     };
     public static String correctAnswer_2[] = {
-            "Вольфганг Амадй Моцарт",
+            "Вольфганг Амадей Моцарт",
             "Sex Pistols",
             "The Offspring",
             "Никколо Паганини",
